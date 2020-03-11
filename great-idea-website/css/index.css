@@ -64,3 +64,62 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+* {
+	border: 1px solid black;
+}
+
+
+/*footer Section*/
+
+.Footer p{
+	text-align: center;
+}
+
+
+/*Contact section*/
+
+.acontact p{
+	text-align: start;
+
+}
+
+/*BContent section*/
+
+.BContent {
+	display: inline-block;
+	
+}
+
+/*middle image section*/
+
+.Mimage {
+	text-align: center;
+}
+
+/*TContent section*/
+
+
+
+/*Header section*/
+
+div.IODemand {
+	font-size: 20px;
+
+}
+
+/*Button selection*/
+
+/*Nav section*/
+
+.Navi {
+	display: inline-block;
+	margin: 0 auto;
+}
+
+
+/*Body section*/
+
+
+
+
