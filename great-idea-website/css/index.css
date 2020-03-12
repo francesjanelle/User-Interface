@@ -111,12 +111,9 @@ h1, h2, h3, h4, h5 {
 	width: 100%;
 	height: 10px;
 	margin: 20px;
-	padding: 20px
+	padding: 20px;
 }
 
-.Features {
-	float: right;
-}
 
 
 /*Header section*/
@@ -132,8 +129,6 @@ h1, h2, h3, h4, h5 {
 	width: 20%;
 	float: right;
 }
-
-/*Button selection*/
 
 /*h1 content*/
 
