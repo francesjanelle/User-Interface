@@ -54,7 +54,7 @@ table {
 
 html, body {
     height: 100%;
-    font-family: 'Titillium Web', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 }
 
 h1, h2, h3, h4, h5 {
@@ -64,3 +64,101 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+/*footer Section*/
+
+.Footer p{
+	text-align: center;
+}
+
+
+/*Contact section*/
+
+.acontact p{
+	text-align: start;
+}
+.acontact {
+	padding: 20px
+}
+
+/*BContent section*/
+
+.BContent {
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	height: 10px;
+	padding: auto;
+	margin: auto; 
+}
+
+
+
+/*middle image section*/
+
+.Mimage {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*TContent section*/
+
+.TContent {
+	text-align: center;
+	display: inline-block;
+	width: 100%;
+	height: 10px;
+	margin: 20px;
+	padding: 0 20%;
+}
+
+ .About {
+	padding-left: 50%;
+}
+
+.Features {
+	padding-right: 50%;
+}
+
+
+/*Header section*/
+
+.IODemand  {
+	font-size: 20px;
+	padding: 20px;
+	display: inline-block;
+}
+
+.CImage {
+	text-align: center;
+	width: 20%;
+	float: right;
+}
+
+/*h1 content*/
+
+h1 {
+	50px
+}
+
+/*Nav section*/
+
+.Navi {
+	display: inline-block;
+	margin: 10px;
+	padding: 20px;
+
+}
+
+.logo {
+	float: right;
+}
+
+
+/*Body section*/
+
+
+
+
